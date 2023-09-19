@@ -14,7 +14,7 @@ IndividualXp.Enabled = 1
 #        Default:     IndividualXp.Announce   = 1
 #
 
-IndividualXp.Announce = 1
+IndividualXp.Announce = 0
 
 #
 #    MaxXPRate
